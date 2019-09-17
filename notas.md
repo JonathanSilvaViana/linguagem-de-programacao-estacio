@@ -1,0 +1,1 @@
+As aulas foram lecionadas com o uso de netbeans como IDE, utilizando Java 8 SE como base.
